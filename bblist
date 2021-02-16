@@ -1,3 +1,8 @@
 DOMAIN-SUFFIX, bbcollab.com
 DOMAIN-SUFFIX, bbcollabcloud.com
 DOMAIN-SUFFIX, bbcollab.cloud
+DOMAIN-SUFFIX, cloudfront.net
+IP-CIDR, 13.55.252.6/32
+IP-CIDR, 54.66.134.4/32
+IP-CIDR, 3.104.151.89/32
+IP-CIDR, IP4 - /32
