@@ -1,0 +1,3 @@
+#!name=BlackBoard Collabrate
+[Rule]
+PROTOCOL,UDP,Proxy
